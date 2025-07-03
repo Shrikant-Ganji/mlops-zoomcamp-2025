@@ -1,0 +1,13 @@
+__pycache__
+06-Best-Practices/code/function.zip
+# .gitignore
+
+# Ignore large or unnecessary files
+*.zip
+__pycache__/
+*.pyc
+
+# Ignore local package dir
+06-Best-Practices/code/package/
+06-Best-Practices/code/function.zip
+
